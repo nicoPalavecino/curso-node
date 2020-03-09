@@ -1,6 +1,6 @@
 node_modules
 03-Base-node/tablas/*.txt
+!03-Base-node/tablas/.gitkeep
 .vscode
 04-to-do/DB/*.json
-uploads/*
 !04-to-do/DB/.gitkeep
